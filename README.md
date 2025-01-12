@@ -1,4 +1,6 @@
-# kafka-python-project
+# kafka-python-project:  
+This project basically fetches weather related data from an api and through producers it pushes the data into Kafka topics and trsnaforms it.  
+
 ### Set up an environment:
 cd send_to_kafka  
 python3 -m venv env  
